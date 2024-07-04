@@ -1,4 +1,8 @@
 public class BluePrintOfHouse {
+    /*
+    * Data Structure:Store data
+    * Behaviour class: Store data perfom operation
+    * */
     private int noOfBedrooms;
     private int noOfLivingRooms;
     private int noOfWashrooms;
