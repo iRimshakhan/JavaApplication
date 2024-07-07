@@ -7,6 +7,13 @@ public class Student {
     char studentGrade = 'B';
 
     public static void main(String[] args) {
-        // TODO: 04-07-2024 print Student data
+        Student student = new Student();
+        
+        // Print Student data
+        System.out.println("Student Name: " + student.studentName);
+        System.out.println("Student ID: " + student.studentID);
+        System.out.println("Student Age: " + student.studentAge);
+        System.out.println("Student Fee: $" + student.studentFee);
+        System.out.println("Student Grade: " + student.studentGrade);
     }
 }
