@@ -12,9 +12,10 @@ public class ForEach {
 //        cars[3] = "Ferrari";
 //        cars[4] = "Audi";
 
-        for (String item : cars) {
+        /*for (String item : cars) {
             System.out.println(item);
-        }
+        }*/
+        // TODO: 08-07-2024 print cars list
 
 
 
