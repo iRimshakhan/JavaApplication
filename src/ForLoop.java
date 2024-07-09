@@ -8,12 +8,16 @@ public class ForLoop {
             System.out.println(" loop completes");
         }
         System.out.println("forloop end");
+        System.out.println("\n\n");
 
 //        int yasin = 5;
 //        yasin = yasin + 1;// -> yasin++ short form
 //
 
 // TODO: 05-07-2024 Print 10 to 1 numbers using for loop
+        for(int i=10; i>0; i-=1){
+            System.out.println(i);
+        }
 
 
     }
