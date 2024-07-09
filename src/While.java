@@ -11,8 +11,15 @@ public class While {
             System.out.println("loop completed");
         }
         System.out.println("loop end");
+        System.out.println("\n");
+
 
         // TODO: 05-07-2024 print 10 to 1 numbers in reverse order using while loop
+        int start = 10;
+        while(start > 0) {
+            System.out.println(start);
+            start--;
+        }
     }
 
 
